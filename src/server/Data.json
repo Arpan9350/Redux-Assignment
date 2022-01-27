@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "arpna",
+      "username": "arpan9350",
+      "email": "oroarpanjain@7gmail.com",
+      "pass": "arpan@123",
+      "contact": 8962715223,
+      "recipe": []
+    },
+    {
+      "name": "amruta",
+      "username": "amruta",
+      "contact": "7023966557",
+      "email": "amruta@gmail.com",
+      "pass": "arpan",
+      "cpassword": "arpan",
+      "recipe": [],
+      "id": 2
+    },
+    {
+      "name": "harsh",
+      "username": "jain",
+      "contact": "8962715223",
+      "email": "harsh@gmail.com",
+      "pass": "harsh",
+      "cpassword": "harsh",
+      "recipe": [
+        {
+          "name": "chicken ",
+          "ingrident": "sjkfsfskjshgkh",
+          "discription": "ksghgffjkggjdfsggjlk"
+        },
+        {
+          "name": "mutterpanner",
+          "ingrident": "panner , muttor ,salt ,chilli, turmaric ",
+          "discription": "For marinating the paneer:\nMix the paneer cubes with curd, a spoonful of ginger garlic paste, a pinch of salt, red chilli powder and a pinch of garam masala powder.\nAdd the tandoor colour if desired. Refrigerate overnight.\nFor boiled onion paste:\nBoil the onions and tomatoes with one bay leaf, 3/4 cardamoms and a half a tea spoon of ghee in water.\nCool the mixture.\nRemove the bay leaf. Add ginger garlic paste and the cashew nuts.\nGrind to a smooth paste.\nGrill the paneer until the ends are browned.\nHeat the ghee in a vessel, and add whole garam masala."
+        },
+        {
+          "name": "butter pnanner masala",
+          "ingrident": "butter ,panner ,masala",
+          "discription": "or marinating the paneer: Mix the paneer cubes with curd, a spoonful of ginger garlic paste, a pinch of salt, red chilli powder and a pinch of garam masala powder. Add the tandoor colour if desired. Refrigerate overnight. For boiled onion paste: Boil the onions and tomatoes with one bay leaf, 3/4 cardamoms and a half a tea spoon of ghee in water. Cool the mixture. Remove the bay leaf. Add ginger garlic paste and the cashew nuts. Grind to a smooth paste. Grill the paneer until the ends are browned. Heat the ghee in a vessel, and add whole garam masala."
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "jeff",
+      "username": "mathew",
+      "contact": "7023966557",
+      "email": "jeff@gmail.com",
+      "pass": "Arpanj@123",
+      "cpassword": "Arpanj@123",
+      "recipe": [],
+      "id": 4
+    }
+  ]
+}
